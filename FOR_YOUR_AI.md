@@ -25,7 +25,7 @@ These are also in `SKILL.md` under "First run". On the first run, ask the user t
 
 ## When to load it
 
-- The chat is long and answers get slow or vague.
+- The chat is long and answers get vague or forget earlier details.
 - The user changes the topic but wants to keep earlier decisions.
 - The user asks for a summary to start a new chat.
 - One of the three restart signs in `SKILL.md` shows up.

@@ -5,7 +5,7 @@ description: Turns a long chat into a short Carry-Over Card to paste into a new 
 
 # Fresh Start
 
-A long chat gets slow, costs more of your usage limit and starts to forget early details.
+A long chat can use more of your usage limit and starts to forget early details.
 Starting over feels worse, because you have to explain everything again.
 This skill moves only what matters into a new chat: one small card.
 

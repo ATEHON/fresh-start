@@ -1,6 +1,6 @@
 # Fresh Start
 
-**Your chat got long, slow and forgetful. Fresh Start turns it into one small card you paste into a new chat, so you keep your decisions and lose the clutter.**
+**Your chat got long and forgetful. Fresh Start turns it into one small card you paste into a new chat, so you keep your decisions and lose the clutter.**
 
 Works with Claude and Gemini as a skill, and with ChatGPT or any other chat app by copy and paste.
 
